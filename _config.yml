@@ -1,9 +1,9 @@
 # Site settings
-title:Abueng Junior
-email:abuengntsimane@icloud.com
-description:We Start With Thinking, Not Design
+title: Abueng Junior
+email: abuengntsimane@icloud.com
+description: We Start With Thinking, Not Design
 baseurl: "Design is what people see — strategy is what makes it work."
-url:https://www.abbuengjunior.co.za
+url: https://www.abuengjunior.co.za
 linkedin_url:https://www.linkedin.com/in/abueng-junior/
 
 # Build settings
